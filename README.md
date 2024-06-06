@@ -1,9 +1,9 @@
 # Proyecto Final
 ### Integrantes:
-* Nicole Alejandra Uribe Tapia (35%)
-* Daho Fabio Copa Mejia (35%)
-* Karen Pilar Aguayo Salas (15%)
-* Isaac Joel Rivero Peñarrieta (15%)
+* Nicole Alejandra Uribe Tapia (40%)
+* Daho Fabio Copa Mejia (40%)
+* Karen Pilar Aguayo Salas (10%)
+* Isaac Joel Rivero Peñarrieta (10%)
 
 
 ## Anexos:
