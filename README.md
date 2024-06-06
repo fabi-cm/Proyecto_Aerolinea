@@ -4,7 +4,8 @@
 * Daho Fabio Copa Mejia (40%)
 * Karen Pilar Aguayo Salas (10%)
 * Isaac Joel Rivero Peñarrieta (10%)
-
+### Aporte:
+https://trello.com/invite/b/wF8RBbXv/ATTI7f942820f8dea884bac489e8e9781dfaC1087BDA/aerolinea
 
 ## Anexos:
 
